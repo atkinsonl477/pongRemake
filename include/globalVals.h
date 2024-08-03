@@ -1,0 +1,7 @@
+#define WINDOW_WIDTH 900
+#define WINDOW_HEIGHT 600
+#define PADDLE_HEIGHT 80
+#define PADDLE_WIDTH 10
+#define PADDLE_MAX_VELOCITY 8
+
+#define IDEAL_FRAME_TIME_MS (float) 1 / 60 * 1000
